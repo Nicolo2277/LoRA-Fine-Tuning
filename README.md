@@ -7,7 +7,8 @@ This project implements a story generation pipeline using Low-Rank Adaptation (L
 - **Novelty Score**: Quantifies generated story uniqueness relative to the training set.
 - **Perplexity & Average Cross-Entropy**: Standard language model loss metrics.
 
-For detailed methodology on training and results, see the project report: docs/report.pdf .
+For detailed methodology on training and results, see the [project report](docs/report.pdf).
+
 
 **Inference Colab Notebook**
 We provide a ready-to-run Colab notebook for generating stories with the fine-tuned LoRA adapter, including the weights for different LoRA ranks:
